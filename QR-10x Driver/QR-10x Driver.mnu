@@ -1,0 +1,29 @@
+# LabVIEW Menu File for QR-10x Driver
+# Main Palette File
+# Last updated: 10 August 2025
+
+Initialize.vi
+
+[-]
+
+[Configure]
+Configure\Configure.mnu
+
+[Action-Status]
+Action-Status\Action-Status.mnu
+
+[Data]
+Data\Data.mnu
+
+[Utility]
+Utility\Utility.mnu
+
+[-]
+
+[Advanced]
+wait_.vi
+VI Tree.vi
+
+[-]
+
+Close.vi

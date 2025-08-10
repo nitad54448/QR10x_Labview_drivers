@@ -1,0 +1,13 @@
+# Data Query Sub-Palette
+
+Get_DeviceType.vi
+Get_Firmware.vi
+Get_SerialNumber.vi
+Get_Prod_Date.vi
+[-]
+Get_Power.vi
+Get_Max_Voltage.vi
+Get_User_Limit.vi
+[-]
+Get_SP.vi
+Get_TCR.vi
